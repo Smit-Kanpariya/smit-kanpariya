@@ -9,29 +9,34 @@
 
 ## 🛠️ **Skills**
 
-### Programming Languages:
-- JavaScript, C, Java, Python, SQL
+### 💻 Programming Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=black)  
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
+![SQL](https://img.shields.io/badge/-SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
-### Web Development:
-- HTML5, CSS, Responsive Design, Node.js, Express.js, REST APIs
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+![REST APIs](https://img.shields.io/badge/-REST-005571?style=flat)
 
-### Frameworks & Libraries:
-- Django, React
+### 📊 Databases
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### Databases:
-- MySQL, MongoDB
-
-### Tools & Platforms:
-- Git, GitHub
-
-### Additional Technologies:
-- Web Development, Software Engineering
+### 🔧 Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
 
 ---
 
 ## 🔗 **Connect with Me**
-- [GitHub](https://github.com/Smit-Kanpariya)  
-- [LinkedIn](https://linkedin.com/in/smit-kanpariya)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Smit-Kanpariya)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/smit-kanpariya)  
 
 ---
 
@@ -60,4 +65,3 @@ A responsive web music player interface inspired by Spotify's modern design.
 
 ---
 
-🌟 Thanks for visiting my profile! Feel free to connect and collaborate. Let’s build something amazing together!
