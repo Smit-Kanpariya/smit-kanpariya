@@ -10,6 +10,8 @@
 ## 🛠️ **Skills**
 
 ### 💻 Programming Languages
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat&logo=javascript&logoColor=black)  
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=black)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)  
