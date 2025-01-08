@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Smit Kanpariya!
 
 🎓 **Bachelor of Science in Computer Science**  
-📚 Currently studying at **Saint Mary’s University**, Canada 
+📚 Currently studying at **Saint Mary’s University**, Canada                                         
 🌍 Based in **Halifax, Nova Scotia**  
 📫 Reach me at **[smit.kanpariya@smu.ca](mailto:smit.kanpariya@smu.ca)**  
 
