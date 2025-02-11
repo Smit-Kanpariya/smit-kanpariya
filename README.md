@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Smit Kanpariya!
+# 👋  Hi, I’m Smit Kanpariya!
 
 🎓 **Bachelor of Science in Computer Science**  
 📚 Currently studying at **Saint Mary’s University**, Canada                                         
