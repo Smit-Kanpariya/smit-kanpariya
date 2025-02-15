@@ -73,31 +73,5 @@
 | ![Full Stack](https://img.icons8.com/fluency/48/000000/source-code.png) | Full-Stack Web Development |
 | ![Software Engineering](https://img.icons8.com/color/48/000000/engineering.png) | Software Engineering Principles |  
 
-</details>  
 
-
-## 🏆 **GitHub Stats**
-
-![Smit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smit-Kanpariya&show_icons=true&theme=radical)
-
----
-
-## 🚀 **Top Projects**
-### [Nova Adventure](https://github.com/Smit-Kanpariya/Nova-Adventure)
-A dynamic community platform for adventure enthusiasts to connect and streamline event participation.  
-- Designed a user-friendly interface with responsive design principles for cross-device compatibility.  
-- Features secure login/signup functionality and showcases events with details like images, pricing, and duration.  
-
-**Tech Stack:** HTML, CSS, Responsive Web Design  
-
----
-
-### [Spotify Clone](https://github.com/Smit-Kanpariya/Spotify_Clone/tree/main)
-A responsive web music player interface inspired by Spotify's modern design.  
-- Showcases advanced CSS techniques like custom gradients, hover transitions, and glassmorphism elements.  
-- Developed with a mobile-first approach for seamless cross-device functionality.  
-
-**Tech Stack:** HTML, CSS, Advanced CSS Techniques, Responsive Design  
-
----
 
