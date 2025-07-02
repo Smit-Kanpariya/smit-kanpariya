@@ -1,77 +1,37 @@
-# 👋  Hi, I’m Smit Kanpariya!
-📚 Currently studying Bachelor in Computer Science at **Saint Mary’s University**, Canada                                          
-📫 Reach me at **[smit.kanpariya@smu.ca](mailto:smit.kanpariya@smu.ca)**  
+# 👋 Hi, I'm Smit Kanpariya!
+
+🎓 **Computer Science Student** at **Saint Mary's University** | GPA: 3.89/4.3  
+💼 **Development Intern** at **Dash Social**  
+📫 [smit.kanpariya@smu.ca](mailto:smit.kanpariya@smu.ca) | 🌐 [SmitCodes.com](https://smitcodes.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/smit-kanpariya/)
+
 ---
-> **Note:** Click on the dropdowns below to expand each section and view the content.
 
-<details>  
-<summary>🖥️ Programming Languages</summary>  
+## 🚀 Tech Stack
 
-| Logo                         | Language      |
-|------------------------------|---------------|
-| ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) | JavaScript   |
-| ![C](https://img.icons8.com/color/48/000000/c-programming.png)        | C            |
-| ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png) | Java      |
-| ![Python](https://img.icons8.com/color/48/000000/python.png)          | Python       |  
+**Languages:** JavaScript, TypeScript, Python, Java, SQL  
+**Frontend:** React, Next.js, Vue.js, Tailwind CSS, HTML5, CSS3  
+**Backend:** Node.js, Express.js, Flask, RESTful APIs  
+**Databases:** PostgreSQL, MongoDB, Prisma ORM  
+**Tools:** Git, Docker, Vercel, AWS, CI/CD  
 
-</details>  
+---
 
-<details>  
-<summary>🌐 Web & Markup</summary>  
+## 💼 Experience
 
-| Logo                         | Technology    |
-|------------------------------|---------------|
-| ![HTML5](https://img.icons8.com/color/48/000000/html-5--v1.png)       | HTML5        |
-| ![CSS3](https://img.icons8.com/color/48/000000/css3.png)              | CSS          |  
+**Development Intern @ Dash Social** *(Jan 2025 - May 2025)*
+- Built frontend components with Vue.js and Tailwind CSS
+- Developed RESTful APIs using Python (Flask) and MySQL
+- Worked with Docker, Kubernetes, and AWS
 
-</details>  
+---
 
-<details>  
-<summary>📚 Frameworks and Libraries</summary>  
+## 🚀 Featured Projects
 
-| Logo                         | Framework/Library |
-|------------------------------|-------------------|
-| ![Django](https://img.icons8.com/ios-filled/50/092E20/django.png)    | Django        |
-| ![React](https://img.icons8.com/color/48/000000/react-native.png)    | React         |
-| ![Node.js](https://img.icons8.com/fluency/48/000000/node-js.png)     | Node.js       |
-| ![Express.js](https://img.icons8.com/ios-filled/50/000000/cloud-server.png) | Express.js |
-| ![EJS](https://img.icons8.com/ios-filled/50/555555/template.png)     | EJS           |  
+### 💰 [WealthTracker](https://yourwealthtracker.vercel.app/) - AI Finance Platform
+AI-powered financial management with **95% accuracy** in expense categorization, processing **1000+ daily transactions**
+- **Tech:** Next.js 14, TypeScript, Supabase, PostgreSQL, Prisma ORM
 
-</details>  
-
-<details>  
-<summary>🗄️ Databases</summary>  
-
-| Logo                         | Database       |
-|------------------------------|----------------|
-| ![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)      | MySQL         |
-| ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png)       | MongoDB       |  
-
-</details>  
-
-<details>  
-<summary>🛠️ Tools and Software</summary>  
-
-| Logo                         | Tool/Software  |
-|------------------------------|----------------|
-| ![GIT](https://img.icons8.com/color/48/000000/git.png)               | GIT           |
-| ![GitHub](https://img.icons8.com/ios-glyphs/48/000000/github.png)    | GitHub        |  
-
-</details>  
-
-<details>  
-<summary>🔗 Technologies</summary>  
-
-| Logo                         | Technology                |
-|------------------------------|---------------------------|
-| ![API](https://img.icons8.com/color/48/000000/api.png)              | RESTful APIs             |
-| ![Middleware](https://img.icons8.com/color/48/000000/network.png)   | Middleware Integration   |
-| ![Full Stack](https://img.icons8.com/fluency/48/000000/source-code.png) | Full-Stack Web Development |
-| ![Software Engineering](https://img.icons8.com/color/48/000000/engineering.png) | Software Engineering Principles |  
-
-
-
-
-
-
+### 💬 [Chatty](https://chatty-6mii.onrender.com/signup) - Real-Time Chat App  
+Real-time messaging with **<100ms latency** and multi-user support
+- **Tech:** React, Node.js, Socket.io, MongoDB, JWT Auth
 
