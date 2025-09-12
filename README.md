@@ -13,14 +13,6 @@
 **Databases:** PostgreSQL, MongoDB, Prisma ORM  
 **Tools:** Git, Docker, Vercel, AWS, CI/CD  
 
----
-
-## 💼 Experience
-
-**Development Intern @ Dash Social** *(Jan 2025 - May 2025)*
-- Built frontend components with Vue.js and Tailwind CSS
-- Developed RESTful APIs using Python (Flask) and MySQL
-- Worked with Docker, Kubernetes, and AWS
 
 ---
 
