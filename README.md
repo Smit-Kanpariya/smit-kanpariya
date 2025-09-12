@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Smit Kanpariya!
 
 🎓 **Computer Science Student** at **Saint Mary's University** | GPA: 3.89/4.3  
-💼 **Development Intern** at **Dash Social**  
 📫 [smit.kanpariya@smu.ca](mailto:smit.kanpariya@smu.ca) | 🌐 [SmitCodes.com](https://smitcodes.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/smit-kanpariya/)
 
 ---
