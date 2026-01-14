@@ -1,28 +1,56 @@
-# 👋 Hi, I'm Smit Kanpariya!
+# Smit Kanpariya
 
-🎓 **Computer Science Student** at **Saint Mary's University** | GPA: 3.89/4.3  
-📫 [smit.kanpariya@smu.ca](mailto:smit.kanpariya@smu.ca) | 🌐 [SmitCodes.com](https://smitcodes.vercel.app/) | 💼 [LinkedIn](https://www.linkedin.com/in/smit-kanpariya/)
-
----
-
-## 🚀 Tech Stack
-
-**Languages:** JavaScript, TypeScript, Python, Java, SQL  
-**Frontend:** React, Next.js, Vue.js, Tailwind CSS, HTML5, CSS3  
-**Backend:** Node.js, Express.js, Flask, RESTful APIs  
-**Databases:** PostgreSQL, MongoDB, Prisma ORM  
-**Tools:** Git, Docker, Vercel, AWS, CI/CD  
-
+Full Stack Developer | AI/ML Engineer  
+[Portfolio](https://smitcodes.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/smit-kanpariya/) • [Email](mailto:smit.kanpariya@smu.ca)
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-### 💰 [WealthTracker](https://yourwealthtracker.vercel.app/) - AI Finance Platform
-AI-powered financial management with **95% accuracy** in expense categorization, processing **1000+ daily transactions**
-- **Tech:** Next.js 14, TypeScript, Supabase, PostgreSQL, Prisma ORM
+AI/ML-focused software engineer building scalable, data-driven applications. Experience leading development teams and deploying production systems processing 1000+ daily transactions with 95% accuracy. Currently Vice President of SMU AI Society and Full Stack Developer Intern at Kabot.
 
-### 💬 [Chatty](https://chatty-6mii.onrender.com/signup) - Real-Time Chat App  
-Real-time messaging with **<100ms latency** and multi-user support
-- **Tech:** React, Node.js, Socket.io, MongoDB, JWT Auth
+---
 
+## Experience
+
+**Full Stack Developer Intern** | Kabot | *Sep 2025 – Dec 2025*  
+Building AI-powered educational platform with React, FastAPI, Flask. Integrated Qdrant and Ollama for data retrieval and AI-assisted features.
+
+**Software Engineering Team Lead** | Saint Mary's University | *Jan 2025 – May 2025*  
+Led 5 developers using Agile SDLC. Reduced bugs by 30% through automated testing and code review processes.
+
+**Vice President** | SMU AI Society | *Sep 2025 – Dec 2025*  
+Leading AI workshops and seminars on Google AI Studio and practical AI applications for 200+ students.
+
+---
+
+## Featured Projects
+
+**[WealthTracker](https://yourwealthtracker.vercel.app/)** – AI Finance Platform  
+95% accuracy in expense classification | 1000+ daily transactions | Next.js, TypeScript, Supabase, PostgreSQL
+
+**[Chatty](https://chatty-6mii.onrender.com/signup)** – Real-Time Chat Application  
+<100ms latency | JWT authentication | React, Node.js, MongoDB, Socket.io
+
+---
+
+## Technical Stack
+
+**Languages:** Python, JavaScript, TypeScript, SQL, Java  
+**Frontend:** React, Next.js, Tailwind CSS  
+**Backend:** Node.js, Express.js, Flask, FastAPI  
+**Databases:** PostgreSQL, MongoDB, Supabase  
+**ML & Tools:** pandas, NumPy, Docker, Git, AWS, Qdrant
+
+---
+
+## Education & Certifications
+
+**BSc Computer Science** (Minor in Mathematics) | Saint Mary's University | Expected May 2027  
+**Machine Learning Specialization** – Andrew Ng, Coursera  
+**Introduction to AI** – Google Cloud Skills Boost
+
+
+---
+
+*Open to software engineering and AI/ML opportunities*
