@@ -12,14 +12,14 @@ AI engineer and Co-Founder & CTO of [Blyyss](https://blyyss.ca), a live app for 
 
 - **Blyyss:** I lead engineering across web, iOS and Android. We have delivered 130+ orders to 90 customers, 28 of them repeat, rated 4.7/5.
 - **LLM agents in production:** scheduled headless agents keep local shops' flyers current. A plain script checks for changes before any model runs, each run has a budget cap, and priced flyers publish only if they match live pricing.
-- **Data pipelines:** Python and TypeScript importers turn PDF, photographed and email flyers into tappable, priced data.
+- **Data pipelines:** Python and TypeScript importers turn PDF, photographed and email flyers into structured, priced data.
 - **Payments and correctness:** Stripe card holds captured against the real store receipt, with every order line repriced on the server.
 - **AI research at Saint Mary's:** scaling Point-JEPA from single objects to city-scale scenes with Dr. Jiju Poovvancheri, and applied AI with Dr. Ethan Pancer.
 - **Earlier:** built a RAG system with Gemini and Qdrant for an AI education platform at KAbot Robotics.
 
 ## Where to see the work
 
-The Blyyss code is private. I write up real problems and fixes in my [Problem → Solution posts on LinkedIn](https://www.linkedin.com/in/smit-kanpariya/recent-activity/all/), and the product is live at [blyyss.ca](https://blyyss.ca).
+The Blyyss code is private. The product is live at [blyyss.ca](https://blyyss.ca), and my [portfolio](https://smitkanpariya.com) has a case study of a real production bug.
 
 ## Tools
 
